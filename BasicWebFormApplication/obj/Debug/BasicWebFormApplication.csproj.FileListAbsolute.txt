@@ -1,0 +1,180 @@
+C:\Users\Deniz\source\repos\BasicWebFormApplication\BasicWebFormApplication\bin\BasicWebFormApplication.dll.config
+C:\Users\Deniz\source\repos\BasicWebFormApplication\BasicWebFormApplication\bin\BasicWebFormApplication.dll
+C:\Users\Deniz\source\repos\BasicWebFormApplication\BasicWebFormApplication\bin\BasicWebFormApplication.pdb
+C:\Users\Deniz\source\repos\BasicWebFormApplication\BasicWebFormApplication\bin\roslyn\csc.exe
+C:\Users\Deniz\source\repos\BasicWebFormApplication\BasicWebFormApplication\bin\roslyn\csc.exe.config
+C:\Users\Deniz\source\repos\BasicWebFormApplication\BasicWebFormApplication\bin\roslyn\csc.rsp
+C:\Users\Deniz\source\repos\BasicWebFormApplication\BasicWebFormApplication\bin\roslyn\csi.exe
+C:\Users\Deniz\source\repos\BasicWebFormApplication\BasicWebFormApplication\bin\roslyn\csi.exe.config
+C:\Users\Deniz\source\repos\BasicWebFormApplication\BasicWebFormApplication\bin\roslyn\csi.rsp
+C:\Users\Deniz\source\repos\BasicWebFormApplication\BasicWebFormApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Deniz\source\repos\BasicWebFormApplication\BasicWebFormApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Deniz\source\repos\BasicWebFormApplication\BasicWebFormApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Deniz\source\repos\BasicWebFormApplication\BasicWebFormApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Deniz\source\repos\BasicWebFormApplication\BasicWebFormApplication\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Deniz\source\repos\BasicWebFormApplication\BasicWebFormApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Deniz\source\repos\BasicWebFormApplication\BasicWebFormApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Deniz\source\repos\BasicWebFormApplication\BasicWebFormApplication\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Deniz\source\repos\BasicWebFormApplication\BasicWebFormApplication\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Deniz\source\repos\BasicWebFormApplication\BasicWebFormApplication\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Deniz\source\repos\BasicWebFormApplication\BasicWebFormApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Deniz\source\repos\BasicWebFormApplication\BasicWebFormApplication\bin\roslyn\System.AppContext.dll
+C:\Users\Deniz\source\repos\BasicWebFormApplication\BasicWebFormApplication\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Deniz\source\repos\BasicWebFormApplication\BasicWebFormApplication\bin\roslyn\System.Console.dll
+C:\Users\Deniz\source\repos\BasicWebFormApplication\BasicWebFormApplication\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Deniz\source\repos\BasicWebFormApplication\BasicWebFormApplication\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Deniz\source\repos\BasicWebFormApplication\BasicWebFormApplication\bin\roslyn\System.IO.Compression.dll
+C:\Users\Deniz\source\repos\BasicWebFormApplication\BasicWebFormApplication\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Deniz\source\repos\BasicWebFormApplication\BasicWebFormApplication\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Deniz\source\repos\BasicWebFormApplication\BasicWebFormApplication\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Deniz\source\repos\BasicWebFormApplication\BasicWebFormApplication\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Deniz\source\repos\BasicWebFormApplication\BasicWebFormApplication\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Deniz\source\repos\BasicWebFormApplication\BasicWebFormApplication\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Deniz\source\repos\BasicWebFormApplication\BasicWebFormApplication\bin\roslyn\System.Security.Claims.dll
+C:\Users\Deniz\source\repos\BasicWebFormApplication\BasicWebFormApplication\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Deniz\source\repos\BasicWebFormApplication\BasicWebFormApplication\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Deniz\source\repos\BasicWebFormApplication\BasicWebFormApplication\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Deniz\source\repos\BasicWebFormApplication\BasicWebFormApplication\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Deniz\source\repos\BasicWebFormApplication\BasicWebFormApplication\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Deniz\source\repos\BasicWebFormApplication\BasicWebFormApplication\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Deniz\source\repos\BasicWebFormApplication\BasicWebFormApplication\bin\roslyn\System.ValueTuple.dll
+C:\Users\Deniz\source\repos\BasicWebFormApplication\BasicWebFormApplication\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Deniz\source\repos\BasicWebFormApplication\BasicWebFormApplication\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Deniz\source\repos\BasicWebFormApplication\BasicWebFormApplication\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Deniz\source\repos\BasicWebFormApplication\BasicWebFormApplication\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Deniz\source\repos\BasicWebFormApplication\BasicWebFormApplication\bin\roslyn\vbc.exe
+C:\Users\Deniz\source\repos\BasicWebFormApplication\BasicWebFormApplication\bin\roslyn\vbc.exe.config
+C:\Users\Deniz\source\repos\BasicWebFormApplication\BasicWebFormApplication\bin\roslyn\vbc.rsp
+C:\Users\Deniz\source\repos\BasicWebFormApplication\BasicWebFormApplication\bin\roslyn\VBCSCompiler.exe
+C:\Users\Deniz\source\repos\BasicWebFormApplication\BasicWebFormApplication\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Deniz\source\repos\BasicWebFormApplication\BasicWebFormApplication\bin\EntityFramework.dll
+C:\Users\Deniz\source\repos\BasicWebFormApplication\BasicWebFormApplication\bin\EntityFramework.SqlServer.dll
+C:\Users\Deniz\source\repos\BasicWebFormApplication\BasicWebFormApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Deniz\source\repos\BasicWebFormApplication\BasicWebFormApplication\bin\EntityFramework.xml
+C:\Users\Deniz\source\repos\BasicWebFormApplication\BasicWebFormApplication\bin\EntityFramework.SqlServer.xml
+C:\Users\Deniz\source\repos\BasicWebFormApplication\BasicWebFormApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Deniz\source\repos\BasicWebFormApplication\BasicWebFormApplication\obj\Debug\BasicWebFormApplication.csprojAssemblyReference.cache
+C:\Users\Deniz\source\repos\BasicWebFormApplication\BasicWebFormApplication\obj\Debug\BasicWebFormApplication.csproj.CoreCompileInputs.cache
+C:\Users\Deniz\source\repos\BasicWebFormApplication\BasicWebFormApplication\obj\Debug\BasicWebFormApplication.csproj.CopyComplete
+C:\Users\Deniz\source\repos\BasicWebFormApplication\BasicWebFormApplication\obj\Debug\BasicWebFormApplication.dll
+C:\Users\Deniz\source\repos\BasicWebFormApplication\BasicWebFormApplication\obj\Debug\BasicWebFormApplication.pdb
+C:\Users\bilge.adam\Downloads\BasicWebFormApplication\BasicWebFormApplication\bin\BasicWebFormApplication.dll.config
+C:\Users\bilge.adam\Downloads\BasicWebFormApplication\BasicWebFormApplication\bin\BasicWebFormApplication.dll
+C:\Users\bilge.adam\Downloads\BasicWebFormApplication\BasicWebFormApplication\bin\BasicWebFormApplication.pdb
+C:\Users\bilge.adam\Downloads\BasicWebFormApplication\BasicWebFormApplication\bin\roslyn\csc.exe
+C:\Users\bilge.adam\Downloads\BasicWebFormApplication\BasicWebFormApplication\bin\roslyn\csc.exe.config
+C:\Users\bilge.adam\Downloads\BasicWebFormApplication\BasicWebFormApplication\bin\roslyn\csc.rsp
+C:\Users\bilge.adam\Downloads\BasicWebFormApplication\BasicWebFormApplication\bin\roslyn\csi.exe
+C:\Users\bilge.adam\Downloads\BasicWebFormApplication\BasicWebFormApplication\bin\roslyn\csi.exe.config
+C:\Users\bilge.adam\Downloads\BasicWebFormApplication\BasicWebFormApplication\bin\roslyn\csi.rsp
+C:\Users\bilge.adam\Downloads\BasicWebFormApplication\BasicWebFormApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\bilge.adam\Downloads\BasicWebFormApplication\BasicWebFormApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\bilge.adam\Downloads\BasicWebFormApplication\BasicWebFormApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\bilge.adam\Downloads\BasicWebFormApplication\BasicWebFormApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\bilge.adam\Downloads\BasicWebFormApplication\BasicWebFormApplication\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\bilge.adam\Downloads\BasicWebFormApplication\BasicWebFormApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\bilge.adam\Downloads\BasicWebFormApplication\BasicWebFormApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\bilge.adam\Downloads\BasicWebFormApplication\BasicWebFormApplication\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\bilge.adam\Downloads\BasicWebFormApplication\BasicWebFormApplication\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\bilge.adam\Downloads\BasicWebFormApplication\BasicWebFormApplication\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\bilge.adam\Downloads\BasicWebFormApplication\BasicWebFormApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\bilge.adam\Downloads\BasicWebFormApplication\BasicWebFormApplication\bin\roslyn\System.AppContext.dll
+C:\Users\bilge.adam\Downloads\BasicWebFormApplication\BasicWebFormApplication\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\bilge.adam\Downloads\BasicWebFormApplication\BasicWebFormApplication\bin\roslyn\System.Console.dll
+C:\Users\bilge.adam\Downloads\BasicWebFormApplication\BasicWebFormApplication\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\bilge.adam\Downloads\BasicWebFormApplication\BasicWebFormApplication\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\bilge.adam\Downloads\BasicWebFormApplication\BasicWebFormApplication\bin\roslyn\System.IO.Compression.dll
+C:\Users\bilge.adam\Downloads\BasicWebFormApplication\BasicWebFormApplication\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\bilge.adam\Downloads\BasicWebFormApplication\BasicWebFormApplication\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\bilge.adam\Downloads\BasicWebFormApplication\BasicWebFormApplication\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\bilge.adam\Downloads\BasicWebFormApplication\BasicWebFormApplication\bin\roslyn\System.IO.Pipes.dll
+C:\Users\bilge.adam\Downloads\BasicWebFormApplication\BasicWebFormApplication\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\bilge.adam\Downloads\BasicWebFormApplication\BasicWebFormApplication\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\bilge.adam\Downloads\BasicWebFormApplication\BasicWebFormApplication\bin\roslyn\System.Security.Claims.dll
+C:\Users\bilge.adam\Downloads\BasicWebFormApplication\BasicWebFormApplication\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\bilge.adam\Downloads\BasicWebFormApplication\BasicWebFormApplication\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\bilge.adam\Downloads\BasicWebFormApplication\BasicWebFormApplication\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\bilge.adam\Downloads\BasicWebFormApplication\BasicWebFormApplication\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\bilge.adam\Downloads\BasicWebFormApplication\BasicWebFormApplication\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\bilge.adam\Downloads\BasicWebFormApplication\BasicWebFormApplication\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\bilge.adam\Downloads\BasicWebFormApplication\BasicWebFormApplication\bin\roslyn\System.ValueTuple.dll
+C:\Users\bilge.adam\Downloads\BasicWebFormApplication\BasicWebFormApplication\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\bilge.adam\Downloads\BasicWebFormApplication\BasicWebFormApplication\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\bilge.adam\Downloads\BasicWebFormApplication\BasicWebFormApplication\bin\roslyn\System.Xml.XPath.dll
+C:\Users\bilge.adam\Downloads\BasicWebFormApplication\BasicWebFormApplication\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\bilge.adam\Downloads\BasicWebFormApplication\BasicWebFormApplication\bin\roslyn\vbc.exe
+C:\Users\bilge.adam\Downloads\BasicWebFormApplication\BasicWebFormApplication\bin\roslyn\vbc.exe.config
+C:\Users\bilge.adam\Downloads\BasicWebFormApplication\BasicWebFormApplication\bin\roslyn\vbc.rsp
+C:\Users\bilge.adam\Downloads\BasicWebFormApplication\BasicWebFormApplication\bin\roslyn\VBCSCompiler.exe
+C:\Users\bilge.adam\Downloads\BasicWebFormApplication\BasicWebFormApplication\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\bilge.adam\Downloads\BasicWebFormApplication\BasicWebFormApplication\bin\EntityFramework.dll
+C:\Users\bilge.adam\Downloads\BasicWebFormApplication\BasicWebFormApplication\bin\EntityFramework.SqlServer.dll
+C:\Users\bilge.adam\Downloads\BasicWebFormApplication\BasicWebFormApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\bilge.adam\Downloads\BasicWebFormApplication\BasicWebFormApplication\bin\EntityFramework.xml
+C:\Users\bilge.adam\Downloads\BasicWebFormApplication\BasicWebFormApplication\bin\EntityFramework.SqlServer.xml
+C:\Users\bilge.adam\Downloads\BasicWebFormApplication\BasicWebFormApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\bilge.adam\Downloads\BasicWebFormApplication\BasicWebFormApplication\obj\Debug\BasicWebFormApplication.csprojAssemblyReference.cache
+C:\Users\bilge.adam\Downloads\BasicWebFormApplication\BasicWebFormApplication\obj\Debug\BasicWebFormApplication.csproj.CoreCompileInputs.cache
+C:\Users\bilge.adam\Downloads\BasicWebFormApplication\BasicWebFormApplication\obj\Debug\BasicWebFormApplication.csproj.CopyComplete
+C:\Users\bilge.adam\Downloads\BasicWebFormApplication\BasicWebFormApplication\obj\Debug\BasicWebFormApplication.dll
+C:\Users\bilge.adam\Downloads\BasicWebFormApplication\BasicWebFormApplication\obj\Debug\BasicWebFormApplication.pdb
+C:\Users\Deniz\Desktop\Derste Yapılanlar\BasicWebFormApplication\BasicWebFormApplication\bin\BasicWebFormApplication.dll.config
+C:\Users\Deniz\Desktop\Derste Yapılanlar\BasicWebFormApplication\BasicWebFormApplication\bin\BasicWebFormApplication.dll
+C:\Users\Deniz\Desktop\Derste Yapılanlar\BasicWebFormApplication\BasicWebFormApplication\bin\BasicWebFormApplication.pdb
+C:\Users\Deniz\Desktop\Derste Yapılanlar\BasicWebFormApplication\BasicWebFormApplication\bin\roslyn\csc.exe
+C:\Users\Deniz\Desktop\Derste Yapılanlar\BasicWebFormApplication\BasicWebFormApplication\bin\roslyn\csc.exe.config
+C:\Users\Deniz\Desktop\Derste Yapılanlar\BasicWebFormApplication\BasicWebFormApplication\bin\roslyn\csc.rsp
+C:\Users\Deniz\Desktop\Derste Yapılanlar\BasicWebFormApplication\BasicWebFormApplication\bin\roslyn\csi.exe
+C:\Users\Deniz\Desktop\Derste Yapılanlar\BasicWebFormApplication\BasicWebFormApplication\bin\roslyn\csi.exe.config
+C:\Users\Deniz\Desktop\Derste Yapılanlar\BasicWebFormApplication\BasicWebFormApplication\bin\roslyn\csi.rsp
+C:\Users\Deniz\Desktop\Derste Yapılanlar\BasicWebFormApplication\BasicWebFormApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Deniz\Desktop\Derste Yapılanlar\BasicWebFormApplication\BasicWebFormApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Deniz\Desktop\Derste Yapılanlar\BasicWebFormApplication\BasicWebFormApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Deniz\Desktop\Derste Yapılanlar\BasicWebFormApplication\BasicWebFormApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Deniz\Desktop\Derste Yapılanlar\BasicWebFormApplication\BasicWebFormApplication\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Deniz\Desktop\Derste Yapılanlar\BasicWebFormApplication\BasicWebFormApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Deniz\Desktop\Derste Yapılanlar\BasicWebFormApplication\BasicWebFormApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Deniz\Desktop\Derste Yapılanlar\BasicWebFormApplication\BasicWebFormApplication\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Deniz\Desktop\Derste Yapılanlar\BasicWebFormApplication\BasicWebFormApplication\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Deniz\Desktop\Derste Yapılanlar\BasicWebFormApplication\BasicWebFormApplication\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Deniz\Desktop\Derste Yapılanlar\BasicWebFormApplication\BasicWebFormApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Deniz\Desktop\Derste Yapılanlar\BasicWebFormApplication\BasicWebFormApplication\bin\roslyn\System.AppContext.dll
+C:\Users\Deniz\Desktop\Derste Yapılanlar\BasicWebFormApplication\BasicWebFormApplication\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Deniz\Desktop\Derste Yapılanlar\BasicWebFormApplication\BasicWebFormApplication\bin\roslyn\System.Console.dll
+C:\Users\Deniz\Desktop\Derste Yapılanlar\BasicWebFormApplication\BasicWebFormApplication\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Deniz\Desktop\Derste Yapılanlar\BasicWebFormApplication\BasicWebFormApplication\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Deniz\Desktop\Derste Yapılanlar\BasicWebFormApplication\BasicWebFormApplication\bin\roslyn\System.IO.Compression.dll
+C:\Users\Deniz\Desktop\Derste Yapılanlar\BasicWebFormApplication\BasicWebFormApplication\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Deniz\Desktop\Derste Yapılanlar\BasicWebFormApplication\BasicWebFormApplication\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Deniz\Desktop\Derste Yapılanlar\BasicWebFormApplication\BasicWebFormApplication\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Deniz\Desktop\Derste Yapılanlar\BasicWebFormApplication\BasicWebFormApplication\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Deniz\Desktop\Derste Yapılanlar\BasicWebFormApplication\BasicWebFormApplication\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Deniz\Desktop\Derste Yapılanlar\BasicWebFormApplication\BasicWebFormApplication\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Deniz\Desktop\Derste Yapılanlar\BasicWebFormApplication\BasicWebFormApplication\bin\roslyn\System.Security.Claims.dll
+C:\Users\Deniz\Desktop\Derste Yapılanlar\BasicWebFormApplication\BasicWebFormApplication\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Deniz\Desktop\Derste Yapılanlar\BasicWebFormApplication\BasicWebFormApplication\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Deniz\Desktop\Derste Yapılanlar\BasicWebFormApplication\BasicWebFormApplication\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Deniz\Desktop\Derste Yapılanlar\BasicWebFormApplication\BasicWebFormApplication\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Deniz\Desktop\Derste Yapılanlar\BasicWebFormApplication\BasicWebFormApplication\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Deniz\Desktop\Derste Yapılanlar\BasicWebFormApplication\BasicWebFormApplication\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Deniz\Desktop\Derste Yapılanlar\BasicWebFormApplication\BasicWebFormApplication\bin\roslyn\System.ValueTuple.dll
+C:\Users\Deniz\Desktop\Derste Yapılanlar\BasicWebFormApplication\BasicWebFormApplication\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Deniz\Desktop\Derste Yapılanlar\BasicWebFormApplication\BasicWebFormApplication\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Deniz\Desktop\Derste Yapılanlar\BasicWebFormApplication\BasicWebFormApplication\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Deniz\Desktop\Derste Yapılanlar\BasicWebFormApplication\BasicWebFormApplication\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Deniz\Desktop\Derste Yapılanlar\BasicWebFormApplication\BasicWebFormApplication\bin\roslyn\vbc.exe
+C:\Users\Deniz\Desktop\Derste Yapılanlar\BasicWebFormApplication\BasicWebFormApplication\bin\roslyn\vbc.exe.config
+C:\Users\Deniz\Desktop\Derste Yapılanlar\BasicWebFormApplication\BasicWebFormApplication\bin\roslyn\vbc.rsp
+C:\Users\Deniz\Desktop\Derste Yapılanlar\BasicWebFormApplication\BasicWebFormApplication\bin\roslyn\VBCSCompiler.exe
+C:\Users\Deniz\Desktop\Derste Yapılanlar\BasicWebFormApplication\BasicWebFormApplication\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Deniz\Desktop\Derste Yapılanlar\BasicWebFormApplication\BasicWebFormApplication\bin\EntityFramework.dll
+C:\Users\Deniz\Desktop\Derste Yapılanlar\BasicWebFormApplication\BasicWebFormApplication\bin\EntityFramework.SqlServer.dll
+C:\Users\Deniz\Desktop\Derste Yapılanlar\BasicWebFormApplication\BasicWebFormApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Deniz\Desktop\Derste Yapılanlar\BasicWebFormApplication\BasicWebFormApplication\bin\EntityFramework.xml
+C:\Users\Deniz\Desktop\Derste Yapılanlar\BasicWebFormApplication\BasicWebFormApplication\bin\EntityFramework.SqlServer.xml
+C:\Users\Deniz\Desktop\Derste Yapılanlar\BasicWebFormApplication\BasicWebFormApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Deniz\Desktop\Derste Yapılanlar\BasicWebFormApplication\BasicWebFormApplication\obj\Debug\BasicWebFormApplication.csprojAssemblyReference.cache
+C:\Users\Deniz\Desktop\Derste Yapılanlar\BasicWebFormApplication\BasicWebFormApplication\obj\Debug\BasicWebFormApplication.csproj.CoreCompileInputs.cache
+C:\Users\Deniz\Desktop\Derste Yapılanlar\BasicWebFormApplication\BasicWebFormApplication\obj\Debug\BasicWebFormApplication.csproj.CopyComplete
+C:\Users\Deniz\Desktop\Derste Yapılanlar\BasicWebFormApplication\BasicWebFormApplication\obj\Debug\BasicWebFormApplication.dll
+C:\Users\Deniz\Desktop\Derste Yapılanlar\BasicWebFormApplication\BasicWebFormApplication\obj\Debug\BasicWebFormApplication.pdb
